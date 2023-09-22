@@ -36,6 +36,7 @@ https://fa.abna24.com/
 ```
 info@mcth.ir
 ```
+
 ## Fars News Agency
 
 ```
@@ -57,7 +58,8 @@ http://www.iana.ir/%D8%B5%D9%81%D8%AD%D9%87-%D8%AA%D9%85%D8%A7%D8%B3-%D8%A8%D8%A
 
 ## Iran Book News Agency (IBNA)
 ```
-
+No Email Address found in webpage
+https://isfahan.ir/fa/job-profile-list
 ```
 
 ## Iranian Cultural Heritage News Agency
@@ -75,25 +77,42 @@ http://www.iana.ir/%D8%B5%D9%81%D8%AD%D9%87-%D8%AA%D9%85%D8%A7%D8%B3-%D8%A8%D8%A
 ## Iranian Labour News Agency (ILNA)
 
 ```
-
+fatemehmahdiani@gmail.com
+info@ilna.ir
+siasi@ilna.ir
+eghtesadi@ilna.ir
+ejtemaee@ilna.ir
+farhangi@ilna.ir
+varzeshi@ilna.ir
+aks@ilna.ir
+ostan@ilna.ir
+kar@ilna.ir
+technical@ilna.ir
 ```
 
 ## Iranian Students' News Agency (ISNA)
 
 ```
-
+subject@isna.ir
+info@isna.ir
+webmaster@isna.ir
+ads@isna.ir
 ```
 
 ## Islamic Republic News Agency (IRNA)
 
 ```
-
+pr@irna.ir
 ```
 
 ## Islamic Republic of Iran Broadcasting (IRIB)
 
 ```
+pr.media@irib.ir
 
+From other sources:
+p_jafarzadeh@yahoo.com
+p_jafarzadeh@irib.ir
 ```
 
 ## Islamic Consultative Assembly News Agency (ICANA)
