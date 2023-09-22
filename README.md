@@ -74,6 +74,12 @@ https://isfahan.ir/fa/job-profile-list
 creative.city@isfahan.ir
 intaffairs@isfahan.ir
 ebrahimi.saead@gmail.com
+
+mo.seyrafinejaad@yahoo.com
+mzp13083@gmail.com
+h.kargar491@gmail.com
+alibagheria@yahoo.com
+
 ```
 
 ## Iranian Labour News Agency (ILNA)
