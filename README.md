@@ -1,29 +1,40 @@
 # irnail
 Email list of Iranian news agencies (IR-Nail)
 This is a dynamic list and may never be able to satisfy particular standards for completeness. You can help by adding missing items with reliable sources.
-## Etemad [Without Email Address!]
-نشانی: تهران، خیابان ستارخان، خیابان کوثر دوم، بن بست مینو، پلاک 4
-تلفن: 66124025-021    66124024-021
-فکس: 66124021-021
-
-صاحب امتیاز و مدیر مسوول: الیاس حضرتی
-جانشین مدیر مسوول و رئیس شورای سیاستگذاری: بهروز بهزادی
-سردبیر: زیر نظر شورای سردبیری
-معاون اجرایی: حجت طهماسبی
-مشاور مدیر مسوول: محمد حضرتی
-رئیس سازمان آگهی ها: علی حضرتی
+## Etemad 
+No Email Address found in webpage
 
 ## KhabarOnline News Agency(Khabar online)
-...
+info@khabaronline.ir
+advertise@khabaronline.ir
+editorial@khabaronline.ir
+polotics@khabaronline.ir
+economics@khabaronline.ir
+cultuer@khabaronline.ir
+society@khabaronline.ir
+sport@khabaronline.ir
+world@khabaronline.ir
 
 ## AhlulBayt News Agency (ABNA)
-...
+No Email Address found in webpage
+https://fa.abna24.com/
+
 ## Cultural Heritage News Agency (CNA)
-...
-Fars News Agency
-Eslahatnews
-Iranian Agriculture News Agency (IANA)
-Iran Book News Agency (IBNA)
+info@mcth.ir
+
+## Fars News Agency
+info@farsnews.ir
+
+## Eslahatnews
+No Email Address found in webpage
+https://eslahatnews.com/contact
+
+## Iranian Agriculture News Agency (IANA)
+No Email Address found in webpage
+http://www.iana.ir/%D8%B5%D9%81%D8%AD%D9%87-%D8%AA%D9%85%D8%A7%D8%B3-%D8%A8%D8%A7-%D9%85%D8%A7-119
+
+## Iran Book News Agency (IBNA)
+
 Iranian Cultural Heritage News Agency
 Iran's Metropolises News Agency (IMNA)
 Iranian Labour News Agency (ILNA)
