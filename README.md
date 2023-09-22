@@ -65,7 +65,8 @@ https://isfahan.ir/fa/job-profile-list
 ## Iranian Cultural Heritage News Agency
 
 ```
-
+president@mehrnews.com
+intl@mehrnews.com
 ```
 
 ## Iran's Metropolises News Agency (IMNA)
