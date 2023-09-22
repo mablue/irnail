@@ -71,7 +71,9 @@ https://isfahan.ir/fa/job-profile-list
 ## Iran's Metropolises News Agency (IMNA)
 
 ```
-
+creative.city@isfahan.ir
+intaffairs@isfahan.ir
+ebrahimi.saead@gmail.com
 ```
 
 ## Iranian Labour News Agency (ILNA)
