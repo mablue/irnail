@@ -65,8 +65,7 @@ https://isfahan.ir/fa/job-profile-list
 ## Iranian Cultural Heritage News Agency
 
 ```
-president@mehrnews.com
-intl@mehrnews.com
+
 ```
 
 ## Iran's Metropolises News Agency (IMNA)
@@ -145,7 +144,8 @@ p_jafarzadeh@irib.ir
 ## Mehr News Agency (MNA)
 
 ```
-
+president@mehrnews.com
+intl@mehrnews.com
 ```
 
 ## Press TV
