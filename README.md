@@ -4,6 +4,22 @@
 
 ---
 
+## free access to information  
+iranfoia.ir is a website that provides **free and open access** to information in Iran. It is a platform for citizens to request information from public and private institutions and receive responses in a timely and transparent manner. The website also provides a comprehensive list of documents and circulars published by various government agencies, as well as reports on the implementation of the Freedom of Information Act ¹²³.
+
+If you have any further questions or need help navigating the website, please let me know.
+
+Source: Conversation with Bing, 10/8/2023
+(1) iranfoia.ir - سامانه انتشار و دسترسی آزاد به .... https://iranfoia.ir/.
+(2) ورود به سامانه - سامانه انتشار و دسترسی آزاد به اطلاعات. https://iranfoia.ir/login.
+(3) فهرست اسناد منتشر شده - سامانه انتشار و دسترسی آزاد به اطلاعات. https://iranfoia.ir/documentslist.
+(4) فهرست سازمان ها - سامانه انتشار و دسترسی آزاد به اطلاعات. https://iranfoia.ir/organizations.
+```
+commission@iranfoia.ir
+```
+
+---
+
 ## Etemad 
 
 ```
