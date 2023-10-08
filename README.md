@@ -10,10 +10,10 @@ iranfoia.ir is a website that provides **free and open access** to information i
 If you have any further questions or need help navigating the website, please let me know.
 
 Source: Conversation with Bing, 10/8/2023
-(1) iranfoia.ir - سامانه انتشار و دسترسی آزاد به .... https://iranfoia.ir/.
-(2) ورود به سامانه - سامانه انتشار و دسترسی آزاد به اطلاعات. https://iranfoia.ir/login.
-(3) فهرست اسناد منتشر شده - سامانه انتشار و دسترسی آزاد به اطلاعات. https://iranfoia.ir/documentslist.
-(4) فهرست سازمان ها - سامانه انتشار و دسترسی آزاد به اطلاعات. https://iranfoia.ir/organizations.
+(1) iranfoia.ir - سامانه انتشار و دسترسی آزاد به .... https://iranfoia.ir/.<br/>
+(2) ورود به سامانه - سامانه انتشار و دسترسی آزاد به اطلاعات. https://iranfoia.ir/login.<br/>
+(3) فهرست اسناد منتشر شده - سامانه انتشار و دسترسی آزاد به اطلاعات. https://iranfoia.ir/documentslist.<br/>
+(4) فهرست سازمان ها - سامانه انتشار و دسترسی آزاد به اطلاعات. https://iranfoia.ir/organizations.<br/>
 ```
 commission@iranfoia.ir
 ```
